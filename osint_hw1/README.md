@@ -5,8 +5,8 @@ https://www.defcon.org/html/defcon-26/dc-26-index.html
 ##### CodeX в ИТМО основан в 2015м году
 https://vk.com/wall-103229636?offset=140&own=1&w=wall-103229636_5
 
-##### Автор логотипа - Taly Guryn (скорее всего)
-https://github.com/talyguryn
+##### Автор логотипа - [Taly Guryn] (https://github.com/talyguryn) (скорее всего)
+
 Как минимум коммит с лого на гитхабе от него - https://github.com/codex-team/codex/blob/master/www/public/app/img/codex-logo.svg
 
 ### 3. Найдите все статьи, которые есть на сайте codex.so. Сколько их? Отсортируйте список в лексикографическом порядке.
