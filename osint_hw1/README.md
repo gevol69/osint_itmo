@@ -1,19 +1,19 @@
 ### 1. В каком году впервые появился Recon Vilage на DEF CON?
-##### В 2017м году
-https://www.defcon.org/html/defcon-26/dc-26-index.html
+##### [В 2017м году](https://www.defcon.org/html/defcon-26/dc-26-index.html)
+
 ### 2. В каком году был основан клуб CodeX в ИТМО? Кто автор логотипа?
-##### CodeX в ИТМО основан в 2015м году
-https://vk.com/wall-103229636?offset=140&own=1&w=wall-103229636_5
+##### CodeX в ИТМО основан в [2015м году](https://vk.com/wall-103229636?offset=140&own=1&w=wall-103229636_5)
 
-##### Автор логотипа - [Taly Guryn] (https://github.com/talyguryn) (скорее всего)
 
-Как минимум коммит с лого на гитхабе от него - https://github.com/codex-team/codex/blob/master/www/public/app/img/codex-logo.svg
+##### Автор логотипа - [Taly Guryn](https://github.com/talyguryn) (скорее всего)
+
+Как минимум [коммит с лого на гитхабе](https://github.com/codex-team/codex/blob/master/www/public/app/img/codex-logo.svg) от него.
 
 ### 3. Найдите все статьи, которые есть на сайте codex.so. Сколько их? Отсортируйте список в лексикографическом порядке.
 
 #### На codex.so/articles 61 статья.
-Еще одна статья от codex тут  https://vc.ru/dev/68127-delaem-airplay-stanciyu-iz-staryh-kolonok
-Статья на англе, которой нет в списке на codex.so/articles - https://codex.so/gpg-verification-github
+Еще одна статья от codex [тут](https://vc.ru/dev/68127-delaem-airplay-stanciyu-iz-staryh-kolonok)
+[Статья на англе](https://codex.so/gpg-verification-github), которой нет в списке на codex.so/articles
 
 #### Всего получилось найти 63 статьи.
 
@@ -85,8 +85,8 @@ https://vk.com/wall-103229636?offset=140&own=1&w=wall-103229636_5
 
 ### 4. Найдите веб-сайт данного курса. Где хостится этот сайт? Что особенного заметили, отвечая на этот вопрос?
 
-#### Веб-сайт данного курса - https://osint.itmo.xyz/
-Найден тут: https://github.com/itmo-osint/OSINT-Course-ITMO
+#### [Веб-сайт данного курса](https://osint.itmo.xyz/)
+Найден [тут](https://github.com/itmo-osint/OSINT-Course-ITMO)
 
 #### Этот сайт хостится в US Texas
 
@@ -95,13 +95,13 @@ flag{cf9f0bcccfd3036c4a3c2993d34275b2}
 
 
 ### 5. Кто автор карт на слайдах выше? Выясните откуда он взял данные.
-#### Автор карт - Sasha Trubetskoy (картограф, художник и дизайнер)
+#### Автор карт - [Sasha Trubetskoy](https://twitter.com/sasha_trub) (картограф, художник и дизайнер)
 
-Твиттер: https://mobile.twitter.com/sasha_trub/status/1170162203384791041
-Сайт: https://sashamaps.net/docs/maps/iphone-android-index/
+[Первый пост про карту Москвы в твиттере](https://mobile.twitter.com/sasha_trub/status/1170162203384791041)
+[Сайт Саши](https://sashamaps.net/docs/maps/iphone-android-index/)
 
 Автор утверждает, что данные на этих картах - это данные за 48 часов, которые собираются из различных приложений. Он не уточнил в своём твиттере какие именно это приложения. Он упомянул лишь о том, что это большое количество приложений и все они коммерчески доступные.
 
-В этом твите https://mobile.twitter.com/sasha_trub/status/1171623795641204736 Саша говорит, что данные об iPhone могут поступать с driving приложений.
+[В этом твите](https://mobile.twitter.com/sasha_trub/status/1171623795641204736) Саша говорит, что данные об iPhone могут поступать с driving приложений.
 
-Возможно, что эти карты создаются с помощью инструмента MapBox - https://blog.mapbox.com/visualizing-3-billion-tweets-f6fc2aea03b0
+Возможно, что эти карты создаются с помощью инструмента [MapBox](https://blog.mapbox.com/visualizing-3-billion-tweets-f6fc2aea03b0)
