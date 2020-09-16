@@ -1,11 +1,10 @@
 ### 1. В каком году впервые появился Recon Vilage на DEF CON?
-##### [В 2017м году](https://www.defcon.org/html/defcon-26/dc-26-index.html)
+[В 2017м году](https://www.defcon.org/html/defcon-26/dc-26-index.html)
 
 ### 2. В каком году был основан клуб CodeX в ИТМО? Кто автор логотипа?
-##### CodeX в ИТМО основан в [2015м году](https://vk.com/wall-103229636?offset=140&own=1&w=wall-103229636_5)
+CodeX в ИТМО основан в [2015м году](https://vk.com/wall-103229636?offset=140&own=1&w=wall-103229636_5)
 
-
-##### Автор логотипа - [Taly Guryn](https://github.com/talyguryn) (скорее всего)
+Автор логотипа - [Taly Guryn](https://github.com/talyguryn) (скорее всего)
 
 Как минимум [коммит с лого на гитхабе](https://github.com/codex-team/codex/blob/master/www/public/app/img/codex-logo.svg) от него.
 
@@ -86,10 +85,11 @@
 
 ### 4. Найдите веб-сайт данного курса. Где хостится этот сайт? Что особенного заметили, отвечая на этот вопрос?
 
-#### [Веб-сайт данного курса](https://osint.itmo.xyz/)
+[Веб-сайт данного курса](https://osint.itmo.xyz/)
+
 Найден [тут](https://github.com/itmo-osint/OSINT-Course-ITMO)
 
-#### Этот сайт хостится в US Texas
+Этот сайт хостится в **US Texas**
 
 #### Из особенного - флаг в исходниках)))0)
 flag{cf9f0bcccfd3036c4a3c2993d34275b2}
