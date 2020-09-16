@@ -1,4 +1,4 @@
-###1. В каком году впервые появился Recon Vilage на DEF CON?
+### 1. В каком году впервые появился Recon Vilage на DEF CON?
 ##### В 2017м году
 https://www.defcon.org/html/defcon-26/dc-26-index.html
 ###2. В каком году был основан клуб CodeX в ИТМО? Кто автор логотипа?
