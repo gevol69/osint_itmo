@@ -13,6 +13,7 @@
 
 #### На codex.so/articles 61 статья.
 Еще одна статья от codex [тут](https://vc.ru/dev/68127-delaem-airplay-stanciyu-iz-staryh-kolonok)
+
 [Статья на англе](https://codex.so/gpg-verification-github), которой нет в списке на codex.so/articles
 
 #### Всего получилось найти 63 статьи.
