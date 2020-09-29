@@ -43,8 +43,9 @@ itmo.xyz - 31.184.255.217 ([найдено тут](https://gmap.io/dns/domain/it
 fastfoodcareers.net ([найден тут](https://viewdns.info/reverseip/?host=31.184.255.217&t=1) и [тут](https://gmap.io/dns/host/31.184.255.217/domains))
 
 У домена есть 2 поддомена, которые не работают:
-mail.fastfoodcareers.net
-20.fastfoodcareers.net
+
+    mail.fastfoodcareers.net
+    20.fastfoodcareers.net
 
 Информация с whois:
 
