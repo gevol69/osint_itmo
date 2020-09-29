@@ -3,8 +3,13 @@ itmo.xyz - 31.184.255.217 ([найдено тут](https://gmap.io/dns/domain/it
 
 Следующей командой было получено подтверждение того, что osint.itmo.xyz и itmo.xyz находятся на одном IP адресе:
 
-    curl https://osint.itmo.xyz --resolve osint.itmo.xyz:443:31.184.255.217
-
+    curl https://osint.itmo.xyz --resolve osint.itmo.xyz:443:31.184.255.220 -vvv
+    * Added osint.itmo.xyz:443:31.184.255.220 to DNS cache
+    * Hostname osint.itmo.xyz was found in DNS cache
+    *   Trying 31.184.255.220:443...
+    * TCP_NODELAY set
+    * Connected to osint.itmo.xyz (31.184.255.220) port 443 (#0)
+    ............................................................
     Gotcha
     <!-- flag{cf9f0bcccfd3036c4a3c2993d34275b2} -->
 
