@@ -31,9 +31,12 @@ itmo.xyz - 31.184.255.217 ([найдено тут](https://gmap.io/dns/domain/it
 
 
 ### 3. Составить запросы для выдачи сайтов, которые ссылаются на codex.so (google, yandex, yahoo/bing)
-[Google](https://www.google.com/search?q=link:codex.so+%7C+intext:codex.so&newwindow=1&client=firefox-b-d&sxsrf=ALeKk00eZtxX3jKSLQOMpHFQco0kVoIC-g:1601398725678&tbas=0&source=lnt&sa=X& ved=2ahUKEwiz2b-R647sAhXBwosKHf4YDg4QpwV6BAgGEBk&biw=2560&bih=938)  - link:codex.so | intext:codex.so
+[Google](https://www.google.com/search?q=link:codex.so+%7C+intext:codex.so&newwindow=1&client=firefox-b-d&sxsrf=ALeKk00eZtxX3jKSLQOMpHFQco0kVoIC-g:1601398725678&tbas=0&source=lnt&sa=X&ved=2ahUKEwiz2b-R647sAhXBwosKHf4YDg4QpwV6BAgGEBk&biw=2560&bih=938)  - link:codex.so | intext:codex.so
+
 [Yandex](https://yandex.ru/search/?text=%2B%22codex.so%22&lr=2)  - +"codex.so"
+
 [Yahoo](https://search.yahoo.com/search?n=10&ei=UTF-8&va_vt=any&vo_vt=any&ve_vt=any&vp_vt=any&vst=0&vf=all&vm=i&fl=0&p=%22codex.so%22&vs=)  - "codex.so"
+
 [Bing](https://www.bing.com/search?q=%2B%22codex.so%22&form=QBLH&sp=-1&pq=%2B%22codex.so%22&sc=1-11&qs=n&sk=&cvid=50259D6A70174A10AB88C6D5C834B033)  - +"codex.so"
 
 ### 4. Найдите домен, связанный с фастфудом, который ведёт на [itmo.xyz](https://itmo.xyz), выясните всё о нём
@@ -93,10 +96,12 @@ mail.fastfoodcareers.net
 
 ### 5. https://30.ctf.su/tasks/MN_blblbl, https://30.ctf.su/tasks/KR_paz
 https://30.ctf.su/tasks/MN_blblbl - Виталий Бутерин (поиск по картинке в Яндексе)
+
 https://30.ctf.su/tasks/KR_paz - Цутому Симомура (поиск по картинке в гугле)
 
 ### 6. https://freehackquest.com/quest/100, https://freehackquest.com/quest/102
 https://freehackquest.com/quest/100 - Albuquerque
+
 https://freehackquest.com/quest/102 - ЛЯПАС
 
 ### 7. https://hy17-fbi.spb.ctf.su/
