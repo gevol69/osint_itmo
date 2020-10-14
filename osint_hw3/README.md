@@ -83,9 +83,13 @@
 ![](https://image.prntscr.com/image/J5NIJrgERHqGKLzgEIMr2Q.png)
 
 4:53 - это время, когда на видео было 22:37.
+
 Автомобиль найден на 36:07
+
 36:07 - 22:37 = 13:30
+
 4:53:00 + 0:13:30 = 5:06:30
+
 
 То есть приблизительная дата и время обнаружения автомобиля - **14.12.2017 в 5:06 - 5:07 утра**
 
@@ -93,8 +97,13 @@
 
 #### Вопрос 3
 Минута на видео: 27:33
+
 Little Vegas Chapel - ELVIS
+
 ![](https://image.prntscr.com/image/V867IshLTC_1t7acTQ4Yow.png)
+
 Отель - Holiday House Motel
+
 [Камера](https://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding)
+
 IP-адрес что-то найти не получается. Комбайны ничего не дают.
