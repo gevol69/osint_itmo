@@ -47,11 +47,45 @@
 
 Перевод координат производил [тут](http://the-mostly.ru/konverter_geograficheskikh_koordinat.html)
 
-33.357778S = -33°21′28″ (-33 градуса, 21 минута, 28 секунд)
+33.357778S = 33°21′28″ ю.ш. (33 градуса, 21 минута, 28 секунд)
 
-151.442750Е = 151°26′34″ (151 градус, 26 минут, 34 секунды)
+151.442750Е = 151°26′34″ в.д. (151 градус, 26 минут, 34 секунды)
 
 ### 4.	Напишите скрипт, который каждые 5 минут будет выдавать новые статьи, появившиеся на https://habr.com/ru/all/
 Скрипт находится в файле [script_habr.py](https://github.com/gevol69/osint_itmo/blob/master/osint_hw3/script_habr.py)
 
 ### 5.	Поизучайте challenge https://osint-i1.thinkific.com/courses/take/osint-challenge: Кто его авторы? Попробуйте решить парочку заданий оттуда
+Автор этого челленджа - Andy F1 (Andrew Fordred - andy1@intelligence-i1.com)
+Глобальная цель как я понял - провести расследование, исходные данные - [этот видос](https://drive.google.com/drive/folders/1ErZfdgPfJeqcp6xegzmST6Ulxme5W1jM)
+
+#### Вопрос 1
+Найти время и место наблюдения за автомобилем с этим номером, используя видео.
+![](https://s3.amazonaws.com/thinkific/file_uploads/100237/images/aa0/089/a8d/1565678098131.jpg)
+
+[Добро пожаловать в Лас Вегас!](https://www.google.ru/maps/@36.0819248,-115.1725663,3a,75y,355.31h,90.63t/data=!3m6!1e1!3m4!1sKjgBlUJxf5D50Grblufg_w!2e0!7i16384!8i8192?hl=ru)
+Автомобиль найден на 36:07
+![](https://image.prntscr.com/image/8MZMjD5ASLWEUSdKvmOnIg.png)
+Ищем дату, когда было снято видео. На 13:20 есть цифровой борд с информацией. На нем промелькнула точная стоимость фондового индекса Доу Джонса:
+![](https://image.prntscr.com/image/KZkxTs54Rj2CH-R0eD90vA.png)
+Стоимость 24585.43 была только 13 декабря 2017го года.
+![](https://image.prntscr.com/image/hyNBzfFQSaa9l1zqNLYzlA.png)
+
+Внимательно изучал видео дальше и увидел на 22:37 и точное время и дату:
+
+![](https://image.prntscr.com/image/J5NIJrgERHqGKLzgEIMr2Q.png)
+
+4:53 - это время, когда на видео было 22:37.
+Автомобиль найден на 36:07
+36:07 - 22:37 = 13:30
+4:53:00 + 0:13:30 = 5:06:30
+
+То есть приблизительная дата и время обнаружения автомобиля - **14.12.2017 в 5:06 - 5:07 утра**
+Чтобы обнаружить конкретное место, можно погулять по гугл картам одновременно с автомобилем, который снимает Лас-Вегас на видео, место обнаружения [здесь](https://www.google.ru/maps/@36.1714189,-115.1392054,3a,75y,32.83h,90.28t/data=!3m6!1e1!3m4!1sqWIB1qfw6q5d21x3LnLx-Q!2e0!7i16384!8i8192?hl=ru) - **северный бульвар Лас Вегас**
+
+#### Вопрос 3
+Минута на видео: 27:33
+Little Vegas Chapel - ELVIS
+![](https://image.prntscr.com/image/V867IshLTC_1t7acTQ4Yow.png)
+Отель - Holiday House Motel
+[Камера](https://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding)
+IP-адрес что-то найти не получается. Комбайны ничего не дают.
