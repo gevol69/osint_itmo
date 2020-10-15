@@ -107,3 +107,19 @@ Little Vegas Chapel - ELVIS
 [Камера](https://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding)
 
 IP-адрес что-то найти не получается. Комбайны ничего не дают.
+
+#### Вопрос 4
+
+Стивен Пэддок вечером 1 октября 2017 года открыл огонь по толпе с 32го этажа 135й комнаты отеля Mandalay Bay Hotel.
+
+30.09.2017 в 14:57 он был замечен на кадрах видеонаблюдения.
+
+Не нашел видео с камер конкретно в 14:57, но нашел в 14:48 - он заходил в лифт и спускается к машине.
+
+![](https://image.prntscr.com/image/QvVRNf4UTnGWcOJjCKNJWg.png)
+
+Сразу после этого в 15:06 он садится в свою машину.
+
+![](https://image.prntscr.com/image/aKd4oCdvRwiV1oiN25A-Cg.png)
+
+Информацию нашел [здесь](https://www.nytimes.com/2018/03/22/us/las-vegas-shooting-stephen-paddock.html)
