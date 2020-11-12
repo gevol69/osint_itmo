@@ -1,0 +1,7 @@
+ip_address,port,country_city,type_proxy
+185.63.96.216,4145,"Czechia, Jesenice",SOCKS4
+81.16.123.123,57204,"Iran, Damavand",SOCKS4
+121.190.192.77,4145,"South Korea, Anyang-si",SOCKS4
+61.172.221.104,4145,"Japan, Chuo",SOCKS4
+34.92.164.48,37777,"Hong Kong, Hong Kong","SOCKS5,SOCKS4"
+95.174.109.43,34715,"Russia, Taganrog",SOCKS4
